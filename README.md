@@ -29,29 +29,10 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 - [x] Allow users to use an input to filter orders by the email of the person who placed the order.
 
 ### Walkthrough Video
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/68205883/171754798-dd09ee1b-9268-48e5-90c5-a1faf5309fd5.gif)
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/68205883/171754088-963cbd03-5849-4e29-b221-f2ca25ea5045.gif)
 
-`ADD_EMBEDDED_CODE_HERE`
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/68205883/171754090-900573e7-7add-4128-b779-ec7caf739649.gif)
 
-### Reflection
-
-* Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
-
-Add your response here
-
-* If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-Add your response here
-
-* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-
-Add your response here
-
-### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
-
-### Shout out
-
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/68205883/171754095-c39b06dc-62f9-417b-94a6-2cf2f16f44d7.gif)
