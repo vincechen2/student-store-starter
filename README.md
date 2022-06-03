@@ -6,7 +6,7 @@ Submitted by: **NAME**
 
 Estimated time spent: **#** hours spent in total
 
-Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Student Store Deployed Site](https://natural-zipper.surge.sh)
 
 ### Application Features
 
